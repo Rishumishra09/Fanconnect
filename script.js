@@ -283,6 +283,7 @@ const sportsPlayers = {
   ],
   cricket: [
     { name: "Virat Kohli", position: "Batsman", team: "India & RCB", stats: "Former Captain, 75+ International Centuries" },
+    { name: "Rishu Mishra", position: "Allrounder", team: "India", stats: "Future player,Dream to play for India" },
     { name: "Babar Azam", position: "Batsman", team: "Pakistan & Peshawar Zalmi", stats: "Current Captain, #1 ODI Batsman" },
     { name: "Steve Smith", position: "Batsman", team: "Australia & Sydney Sixers", stats: "Former Captain, Test Average 60+" }
   ],
