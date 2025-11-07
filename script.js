@@ -1,4 +1,4 @@
-/ Configuration for Element SDK
+// Configuration for Element SDK
 const defaultConfig = {
   site_title: "Ultimate International Sports Hub",
   welcome_message: "Choose Your International Sport",
